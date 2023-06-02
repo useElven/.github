@@ -13,3 +13,10 @@ The tool is a wrapper for [sdk-js](https://docs.multiversx.com/sdk-and-tools/sdk
 - [ESDT Faucet Dapp](https://github.com/xdevguild/esdt-faucet-dapp)
 
 Let me know about your Dapps using it.
+
+Contact:
+- [Twitter](https://twitter.com/JulianCwirko)
+
+Please also check:
+- [Elven.js (elvenjs.com)](https://github.com/elven-js) - compact browser library for interacting with the MultiversX blockchain and smart contracts. No build steps are required. You can also use it directly from CDN on a static website.
+- [Elven Tools (elven.tools)](https://github.com/elventools) - the Elven Tools includes smart contracts (NFT/SFT), CLI tool, and minter dapp for NFT launches. Every part of it can be used as a separate tool.
