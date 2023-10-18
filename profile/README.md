@@ -8,6 +8,7 @@ The tool is a wrapper for [sdk-js](https://docs.multiversx.com/sdk-and-tools/sdk
 
 ### Powering:
 
+- [Buildo.dev](https://github.com/xdevguild/buildo.dev)
 - [Next.js Dapp template](https://github.com/xdevguild/nextjs-dapp-template)
 - [Elven Tools Dapp](https://github.com/ElvenTools/elven-tools-dapp)
 - [ESDT Faucet Dapp](https://github.com/xdevguild/esdt-faucet-dapp)
